@@ -150,4 +150,4 @@ dependencies:
     - cytoolz==0.10.1
     - mirnylib==0.0.0
     - setuptools==67.6.0
-prefix: /home/msidorova/ENTER/envs/hiclib38_env
+prefix: /home/mmolodova/anaconda/envs/hiclib38_env
